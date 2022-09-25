@@ -7,7 +7,6 @@ class YeOldeFootStepSurface extends Keypoint;
 
 var() enum EFeetVolumeType {
   FVT_RECTANGLE,
-  FVT_OVAL,
   FVT_CUSTOM,
 } FeetVolumeType;
 
